@@ -36,7 +36,7 @@ from pathlib import Path
 CONF = cfg.CONF
 K2HDKC_MANAGER = 'k2hdkc'
 LOG = logging.getLogger(__name__)
-SERVICE_STATUS_TIMEOUT = 120
+SERVICE_STATUS_TIMEOUT = 
 K2HDKC_CONFIG_PARAM_DIR = '/etc/k2hdkc'
 
 
